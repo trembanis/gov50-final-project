@@ -11,4 +11,4 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to Eurovision Song Contest voting. The Eurovision voting system is notoriously complicated, so there are several factors consider. Perhaps I could analyze the relationship between semifinals placement and wealth or jury-awarded points and shared borders. Setting aside allegations of political influence in Eurovision voting patterns, I could attempt to categorize the performances (for instance, solo vs. group, or ballads vs. pop songs) and compare their distributions over time.
+I'm interested in exploring data related to Eurovision Song Contest voting. The Eurovision voting system is notoriously complicated, so there are several factors consider. Perhaps I could analyze the relationship between semifinals placement and wealth or jury-awarded points and shared borders. Setting aside allegations of political influence in Eurovision voting patterns, I could attempt to categorize the performances (for instance, solo vs. group, or ballads vs. pop songs) and compare their distributions over time.
